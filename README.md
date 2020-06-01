@@ -1,4 +1,4 @@
-# arduino.ps3controlled_bot
+# arduino.playstation3controlled_robot
 About how to control a Remote Controlled car using bluetooth PS3 controller
 
 #include <PS3BT.h>
